@@ -1,0 +1,61 @@
+{
+    "name": "",
+    "path": "",
+    "last_modified": "2021-07-22T07:40:01.023822Z",
+    "created": "2021-07-22T07:40:01.023822Z",
+    "content": [
+        {
+            "name": "numpy.ipynb",
+            "path": "numpy.ipynb",
+            "last_modified": "2021-07-21T08:16:33.104741Z",
+            "created": "2021-07-21T08:16:33.104741Z",
+            "content": null,
+            "format": null,
+            "mimetype": null,
+            "size": 12333,
+            "writable": true,
+            "type": "notebook"
+        },
+        {
+            "name": "FTSE_CHINA_A50_INDEX.csv",
+            "path": "FTSE_CHINA_A50_INDEX.csv",
+            "last_modified": "2021-07-22T07:54:29.145790Z",
+            "created": "2021-07-22T07:54:29.145790Z",
+            "content": null,
+            "format": null,
+            "mimetype": "text/csv",
+            "size": 1098,
+            "writable": true,
+            "type": "file"
+        },
+        {
+            "name": "multi_line.ipynb",
+            "path": "multi_line.ipynb",
+            "last_modified": "2021-07-22T01:17:30.146791Z",
+            "created": "2021-07-22T01:17:30.146791Z",
+            "content": null,
+            "format": null,
+            "mimetype": null,
+            "size": 40219,
+            "writable": true,
+            "type": "notebook"
+        },
+        {
+            "name": "pandas.ipynb",
+            "path": "pandas.ipynb",
+            "last_modified": "2021-07-21T08:16:33.278741Z",
+            "created": "2021-07-21T08:16:33.278741Z",
+            "content": null,
+            "format": null,
+            "mimetype": null,
+            "size": 46499,
+            "writable": true,
+            "type": "notebook"
+        }
+    ],
+    "format": "json",
+    "mimetype": null,
+    "size": null,
+    "writable": true,
+    "type": "directory"
+}
