@@ -1,8 +1,8 @@
 {
     "name": "files",
     "path": "files",
-    "last_modified": "2021-08-05T10:49:17.207245Z",
-    "created": "2021-08-05T10:49:17.207245Z",
+    "last_modified": "2021-08-05T15:02:35.143477Z",
+    "created": "2021-08-05T15:02:35.143477Z",
     "content": [
         {
             "name": "scipy.ipynb",
@@ -139,12 +139,12 @@
         {
             "name": "test_data_api.ipynb",
             "path": "files/test_data_api.ipynb",
-            "last_modified": "2021-08-05T10:33:39.541579Z",
-            "created": "2021-08-05T10:33:39.541579Z",
+            "last_modified": "2021-08-05T15:02:35.142063Z",
+            "created": "2021-08-05T15:02:35.142063Z",
             "content": null,
             "format": null,
             "mimetype": null,
-            "size": 4492,
+            "size": 5255,
             "writable": true,
             "type": "notebook"
         },
