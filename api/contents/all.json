@@ -1,8 +1,8 @@
 {
     "name": "files",
     "path": "files",
-    "last_modified": "2021-07-31T10:53:29.747809Z",
-    "created": "2021-07-31T10:53:29.747809Z",
+    "last_modified": "2021-08-05T10:49:17.207245Z",
+    "created": "2021-08-05T10:49:17.207245Z",
     "content": [
         {
             "name": "scipy.ipynb",
@@ -31,12 +31,12 @@
         {
             "name": "test-file-w_mode.txt",
             "path": "files/test-file-w_mode.txt",
-            "last_modified": "2021-07-31T10:53:25.967223Z",
-            "created": "2021-07-31T10:53:25.967223Z",
+            "last_modified": "2021-07-31T11:02:58.029675Z",
+            "created": "2021-07-31T11:02:58.029675Z",
             "content": null,
             "format": null,
             "mimetype": "text/plain",
-            "size": 0,
+            "size": 98,
             "writable": true,
             "type": "file"
         },
@@ -89,14 +89,38 @@
             "type": "notebook"
         },
         {
+            "name": "test-read.ipynb",
+            "path": "files/test-read.ipynb",
+            "last_modified": "2021-08-04T11:10:14.033003Z",
+            "created": "2021-08-04T11:10:14.033003Z",
+            "content": null,
+            "format": null,
+            "mimetype": null,
+            "size": 2577,
+            "writable": true,
+            "type": "notebook"
+        },
+        {
             "name": "test-file.ipynb",
             "path": "files/test-file.ipynb",
-            "last_modified": "2021-07-31T10:53:29.747465Z",
-            "created": "2021-07-31T10:53:29.747465Z",
+            "last_modified": "2021-07-31T11:02:51.763357Z",
+            "created": "2021-07-31T11:02:51.763357Z",
             "content": null,
             "format": null,
             "mimetype": null,
             "size": 2633,
+            "writable": true,
+            "type": "notebook"
+        },
+        {
+            "name": "test-python.ipynb",
+            "path": "files/test-python.ipynb",
+            "last_modified": "2021-08-03T10:25:15.835306Z",
+            "created": "2021-08-03T10:25:15.835306Z",
+            "content": null,
+            "format": null,
+            "mimetype": null,
+            "size": 2258,
             "writable": true,
             "type": "notebook"
         },
@@ -113,6 +137,30 @@
             "type": "notebook"
         },
         {
+            "name": "test_data_api.ipynb",
+            "path": "files/test_data_api.ipynb",
+            "last_modified": "2021-08-05T10:33:39.541579Z",
+            "created": "2021-08-05T10:33:39.541579Z",
+            "content": null,
+            "format": null,
+            "mimetype": null,
+            "size": 4492,
+            "writable": true,
+            "type": "notebook"
+        },
+        {
+            "name": "server-for-wasm.py",
+            "path": "files/server-for-wasm.py",
+            "last_modified": "2021-08-05T10:49:17.206888Z",
+            "created": "2021-08-05T10:49:17.206888Z",
+            "content": null,
+            "format": null,
+            "mimetype": "text/x-python",
+            "size": 664,
+            "writable": true,
+            "type": "file"
+        },
+        {
             "name": "altair.ipynb",
             "path": "files/altair.ipynb",
             "last_modified": "2021-07-28T00:49:00.640125Z",
@@ -127,24 +175,24 @@
         {
             "name": "test-file-a_mode.txt",
             "path": "files/test-file-a_mode.txt",
-            "last_modified": "2021-07-31T10:53:20.573811Z",
-            "created": "2021-07-31T10:53:20.573811Z",
+            "last_modified": "2021-07-31T11:02:48.736242Z",
+            "created": "2021-07-31T11:02:48.736242Z",
             "content": null,
             "format": null,
             "mimetype": "text/plain",
-            "size": 0,
+            "size": 238,
             "writable": true,
             "type": "file"
         },
         {
             "name": "pandas.ipynb",
             "path": "files/pandas.ipynb",
-            "last_modified": "2021-07-30T09:16:24.237383Z",
-            "created": "2021-07-30T09:16:24.237383Z",
+            "last_modified": "2021-08-03T16:16:59.927803Z",
+            "created": "2021-08-03T16:16:59.927803Z",
             "content": null,
             "format": null,
             "mimetype": null,
-            "size": 3834,
+            "size": 1387,
             "writable": true,
             "type": "notebook"
         },
